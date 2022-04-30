@@ -9,11 +9,10 @@ Ensure the [Playdate SDK](https://play.date/dev/) is installed.
 + Make
 
 # Getting started
-1. Create your project using this template (remember the build will use the project folder name)
-2. Open `source/pdxinfo` and update with your details
-3. Make your game
-4. ...
-5. Profit?!
+1. Click "Use this template" to clone.
+2. Make your game.
+3. ...
+4. Profit!
 
 # Building/Compiling/Testing commands
 
